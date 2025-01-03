@@ -1,6 +1,6 @@
 # 🌟 Olá, eu sou Thaís! 👋
 
-🏆 ** **Certificado de Excelência** em *"Boas Práticas para o Gerenciamento de Dados Biomédicos"* pela **Harvard Medical School** e NIH Big Data to Knowledge Program (BD2K)
+🏆 **Certificado de Excelência** em *"Boas Práticas para o Gerenciamento de Dados Biomédicos"* pela **Harvard Medical School** e NIH Big Data to Knowledge Program (BD2K)  
 🎓 **Mestra em Bioestatística** pelo Departamento de Estatística da Universidade Estadual de Maringá (UEM), Paraná (PR)  
 📚 **Estudante da pós em Governança de TI** pela Universidade Estadual de Campinas (Unicamp)  
 💻 Explorando a interseção entre **saúde**, **tecnologia** e **dados**  

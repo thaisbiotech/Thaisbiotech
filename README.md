@@ -26,7 +26,7 @@ Sou apaixonada por ciência, saúde e inovação tecnológica. Minha formação 
 
 ----
 
-### 🔹 [Meu site](https://thaisciencia.blogspot.com/)
+## 🔹 [Meu site](https://thaisciencia.blogspot.com/)
 - Um blog com algumas reflexões sobre a vida 
 
 🖤 Sempre aprendendo, contribuindo e conectando ciência e tecnologia!

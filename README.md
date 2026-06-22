@@ -10,12 +10,6 @@
 ## 🚀 Sobre Mim
 Sou apaixonada por ciência, saúde e inovação tecnológica. Minha formação une análise de dados avançada, gestão em saúde, epidemiologia e saúde da família, com o objetivo de criar soluções impactantes e sustentáveis [e em código aberto,  por favor🤭]
 
-### Destaques da Minha Trajetória:
-- **Residência Multiprofissional em Saúde da Família e Comunidade** pela Escola Superior de Ciências da Saúde (ESCS) da SES/DF  
-- **Bacharelado em Saúde Coletiva** pela Universidade de Brasília (UnB)    
-- **Membra oficial da Rede Global de Saúde** (*The Global Health Network - TGHN*) para geografia da saúde  
-- **Assessora da Secretaria de Atenção Primária à Saúde (SAPS)** do Ministério da Saúde (MS)  
-- Representante oficial da SAPS durante as reuniões da **Cúpula de Líderes do G20** na vigência da presidência brasileira (2024)
 
 ---
 
